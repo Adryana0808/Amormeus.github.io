@@ -1,2 +1,0 @@
-@layer reset;@layer shared{html,body{min-width:0;height:100%;margin:0;overflow:hidden}.output{height:100%;position:relative}.output>*{display:block}#live-editor-output{height:100%}}@layer legacy{#live-editor-output{height:100vh!important}}
-/*# sourceMappingURL=742197.09577cba4fb8e9c4.css.map*/
